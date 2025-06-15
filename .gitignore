@@ -1,0 +1,6 @@
+Makefile.configure
+compile_commands.json
+config.log
+*.o
+*.d
+.cache/
